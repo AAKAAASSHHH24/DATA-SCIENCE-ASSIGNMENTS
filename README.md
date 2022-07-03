@@ -1,2 +1,2 @@
 # ASSIGNMENTS
-my beginner assignments 
+PYTHON, ML
